@@ -48,3 +48,9 @@ Here are the screenshot for deliverable 3;
 ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/Lot3(t-test).png)
 
 ## Study Design: MechaCar vs Competition
+ From the options giving and looking at the present economy situation that we are in the country i believe most consumer will be interested in the feul efficiency. So, i will go with the 'City and Highway feul efficiency'.
+ 
+ * Q1: City or Highway fuel efficiency
+ * Q2: The hypothesis states the MechaCar performs does not have the same efficiency with the compeitior.
+ * Q3: Two-sample t-test
+ * Q4: City and Highway MPG
