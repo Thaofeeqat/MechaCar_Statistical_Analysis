@@ -33,4 +33,7 @@ The overview of the t-test carried out show lot1 have the p value of 1, while lo
 Here are the screenshot for deliverable 3;
 
  * Lot1
+ ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/Lot1(t-test).png)
+ 
+ * Lot2
  ![Image Here](
