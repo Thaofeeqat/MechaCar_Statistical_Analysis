@@ -22,3 +22,6 @@
 
 
  ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/%20lot_summary.png)
+ 
+ * Q1:The current manufacturing data meet the design specification for all manufacturing lots in total_summary because the variance outcome show (62) which is still within the giving range which is 100.
+ But looking at the lot individually on two lot falls within the giving range which are; Lot1 and Lot .
