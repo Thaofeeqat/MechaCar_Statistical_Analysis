@@ -43,4 +43,6 @@ Here are the screenshot for deliverable 3;
  ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/Lot2(t-test).png)
  
  * Lot3
+
+
 ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/Lot3(t-test).png)
