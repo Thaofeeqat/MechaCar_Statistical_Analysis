@@ -13,3 +13,5 @@
 
 # DELIVERABLE 2
 ## Summary Statistics on Suspension Coils
+  Hereare the screenshot of both the total_summary and lot_summary table below;
+ ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
