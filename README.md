@@ -15,7 +15,10 @@
 ## Summary Statistics on Suspension Coils
   Hereare the screenshot of both the total_summary and lot_summary table below;
   * Total_Summary
- ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
+
+![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
   
   * Lot_Summary
-  ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/%20lot_summary.png)
+
+
+ ![Image Here](https://github.com/Thaofeeqat/MechaCar_Statistical_Analysis/blob/main/%20lot_summary.png)
