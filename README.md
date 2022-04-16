@@ -10,3 +10,5 @@
     * AWD
 * Q2 : Looking at the p value(which is 5.35) the slope of the linear model is not consider Zero
 * Q3 : Yes, linear model predict mpg of MechaCar prototypes effectively because the R_square was able to show 71% of the data. 
+
+## Summary Statistics on Suspension Coils
